@@ -13,7 +13,7 @@ const maxOfThree = function(x, y, z) {
      
     return max;
 }
-
+// Hi Colton!!
 console.log("The max of 3, 2, and 10 is "  + maxOfThree(3, 2, 10));
 
 // 3. 
